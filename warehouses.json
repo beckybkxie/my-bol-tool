@@ -1,0 +1,105 @@
+{
+    "ONT8": "24300 Nandina Ave, Moreno Valley, CA 92551",
+  "ONT6": "3280 Cactus Ave, Rialto, CA 92376",
+  "LGB8": "1568 N Perris Blvd, Moreno Valley, CA 92551",
+  "LGB7": "4800 N Cactus Ave, Rialto, CA 92377",
+  "SBD1": "15930 Valley Blvd, Fontana, CA 92335",
+  "SNA4": "2496 Alton Pkwy, Irvine, CA 92606",
+  "SNA6": "700 N Valley St, Anaheim, CA 92801",
+  "LAX9": "11263 Oleander Ave, Fontana, CA 92337",
+  "LAX5": "1900 E Victoria St, Compton, CA 90220",
+  "LAX3": "21400 S Western Ave, Torrance, CA 90501",
+
+  "SMF1": "4900 W Elkhorn Blvd, Sacramento, CA 95837",
+  "SMF3": "3923 S B St, Stockton, CA 95206",
+  "SMF6": "5150 E Commerce Way, Tracy, CA 95377",
+
+  "OAK3": "255 Park Center Dr, Patterson, CA 95363",
+  "OAK4": "1555 N Chrisman Rd, Tracy, CA 95376",
+  "OAK5": "7555 S Manthey Rd, Stockton, CA 95206",
+
+  "LAS1": "12300 Bermuda Rd, Henderson, NV 89044",
+  "LAS2": "8000 N Virginia St, Reno, NV 89506",
+  "LAS7": "3837 Bay Lake Trail, North Las Vegas, NV 89030",
+
+  "PHX3": "6835 W Buckeye Rd, Phoenix, AZ 85043",
+  "PHX5": "16920 W Commerce Dr, Goodyear, AZ 85338",
+  "PHX6": "4750 W Mohave St, Phoenix, AZ 85043",
+
+  "BFI1": "1800 140th Ave E, Sumner, WA 98390",
+  "BFI3": "2700 Center Dr, Dupont, WA 98327",
+
+  "GEG1": "18007 E Garland Ave, Spokane Valley, WA 99016",
+
+  "DFW6": "940 W Bethel Rd, Coppell, TX 75019",
+  "DFW7": "700 Westport Pkwy, Fort Worth, TX 76177",
+  "DFW8": "2700 Regent Blvd, Dallas, TX 75261",
+  "FTW1": "33333 LBJ Fwy, Dallas, TX 75241",
+
+  "IAH1": "8120 Humble Westfield Rd, Humble, TX 77338",
+  "IAH3": "9155 Derrington Rd, Houston, TX 77064",
+
+  "SAT2": "1401 E Central Texas Expy, Killeen, TX 76541",
+
+  "MDW2": "250 Emerald Dr, Joliet, IL 60433",
+  "MDW4": "201 Emerald Dr, Joliet, IL 60433",
+  "MDW6": "1125 W Remington Blvd, Romeoville, IL 60446",
+  "ORD2": "201 Emerald Dr, Joliet, IL 60433",
+
+  "IND1": "4255 Anson Blvd, Whitestown, IN 46075",
+  "IND2": "715 Airtech Pkwy, Plainfield, IN 46168",
+  "IND4": "710 S Girls School Rd, Indianapolis, IN 46231",
+
+  "SDF8": "4360 Robards Ln, Louisville, KY 40218",
+  "SDF9": "100 W Thomas P Nelson Hwy, Shepherdsville, KY 40165",
+
+  "BNA2": "500 Duke Dr, Lebanon, TN 37090",
+  "BNA3": "5000 Crossings Cir, Mount Juliet, TN 37122",
+
+  "EWR4": "50 New Canton Way, Robbinsville, NJ 08691",
+  "EWR5": "301 Blair Rd, Avenel, NJ 07001",
+  "EWR9": "8003 Industrial Pkwy, Carteret, NJ 07008",
+
+  "JFK8": "546 Gulf Ave, Staten Island, NY 10314",
+  "JFK2": "546 Gulf Ave, Staten Island, NY 10314",
+
+  "PHL1": "1 Commerce Dr, Robbinsville, NJ 08691",
+  "PHL3": "1600 Johnson Blvd, Secane, PA 19018",
+  "PHL7": "560 Merrimac Ave, Middletown, PA 17057",
+
+  "ABE2": "705 Boulder Dr, Breinigsville, PA 18031",
+  "ABE4": "650 Boulder Dr, Breinigsville, PA 18031",
+
+  "ATL2": "6000 N Terminal Pkwy, Atlanta, GA 30320",
+  "ATL6": "4200 North Commerce Dr, East Point, GA 30344",
+  "ATL8": "808 Hog Mountain Rd, Jefferson, GA 30549",
+
+  "CLT2": "10240 Old Dowd Rd, Charlotte, NC 28214",
+  "CLT4": "8000 Tuckaseegee Rd, Charlotte, NC 28214",
+
+  "MCO1": "12340 Boggy Creek Rd, Orlando, FL 32824",
+  "MCO2": "11801 Boggy Creek Rd, Orlando, FL 32824",
+  "TPA1": "3350 Laurel Ridge Ave, Ruskin, FL 33570",
+  "TPA2": "1760 County Line Rd, Lakeland, FL 33811",
+
+  "JAX2": "12900 Pecan Park Rd, Jacksonville, FL 32218",
+  "JAX3": "13333 103rd St, Jacksonville, FL 32221",
+
+  "BOS3": "1180 Innovation Way, Fall River, MA 02720",
+  "BOS7": "1000 Tech Centre Dr, Stoughton, MA 02072",
+
+  "BDL2": "200 Old County Cir, Windsor Locks, CT 06096",
+
+  "RIC1": "1901 Meadowville Technology Pkwy, Chester, VA 23836",
+  "RIC2": "5000 Commerce Rd, Richmond, VA 23234",
+
+  "CMH1": "3880 Groveport Rd, Obetz, OH 43207",
+  "CMH2": "6050 Gateway Ct, Groveport, OH 43125",
+
+  "DTW1": "39000 Amrhein Rd, Livonia, MI 48150",
+
+  "MSP1": "2601 4th Ave E, Shakopee, MN 55379",
+
+  "DEN2": "22205 E 19th Ave, Aurora, CO 80019",
+  "DEN3": "19799 E 35th Dr, Aurora, CO 80011"
+}
